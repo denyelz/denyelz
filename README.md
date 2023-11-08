@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Hi!, I'm Daniel pronounced as /'dan'-'yuhl'/ </h1>
+<h1 style="text-align:center;">Hi!, I'm Daniel pronounced as /'daeyn'-'yel'/ </h1>
 
 <h2>About Me</h2>
 🎓 An IT student from Quezon City with years of experience developing different systems.<br>
