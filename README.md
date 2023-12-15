@@ -4,7 +4,7 @@
 🎓 An IT student from Quezon City with years of experience developing different systems.<br>
 💻 I'm a software dev and database administrator.<br>
 ✔ All of my credentials are available on LinkedIn @daenyuhl.<br>
-🔫 Valo? Tara G! add me @danielz#AIM, just let me know you find me here :)
+🔫 Valo? Tara G! add me @daniela#AIM, just let me know you find me here :)
 
 <!---
 daenyuhl/daenyuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
